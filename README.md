@@ -22,4 +22,4 @@ pip install -r requirements.txt
 streamlit run main.py
 ```
 
-[img](./img/chatbot.png)
+![img](./img/chatbot.png)

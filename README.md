@@ -15,10 +15,10 @@ Gemma PyTorch tutorial<br/>
 
 2. 다운로드한 압축파일을 압축해제한 뒤, 작업 디렉토리로 옮긴다.
 3. 작업 디렉토리 내에서 `git clone https://github.com/google/gemma_pytorch.git`
-4. (선택사항) 가상환경 설치
-   4-1. `python3 -m venv .venv`
-   4-2. `.venv\Scripts\activate` in Windows
-   4-3. `source .venv/bin/activate` in macOS/Linux
+4. (선택사항) 가상환경 설치<br/>
+   4-1. `python3 -m venv .venv`<br/>
+   4-2. `.venv\Scripts\activate` in Windows<br/>
+   4-3. `source .venv/bin/activate` in macOS/Linux<br/>
 5. `pip install -r requirements.txt`
 
 ---
